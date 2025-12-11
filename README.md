@@ -30,11 +30,16 @@ Players join a room → roles are assigned → Mantri tries to guess the Chor �
 ---
 
 ## 📁 Project Structure  
+
+```
+raja_game_backend/
 ├── app.py              # Main Flask server
 ├── storage.json        # Local storage for players & rounds
 ├── requirements.txt    # Dependencies
 ├── .gitignore
 └── README.md
+```
+
 ## 🔧 Setup Instructions (Local)
 
 ### 1. Clone the repository
@@ -50,3 +55,4 @@ pip install -r requirements.txt
 
 ### 4. Run the server
 python app.py
+
