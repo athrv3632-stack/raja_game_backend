@@ -43,16 +43,26 @@ raja_game_backend/
 ## 🔧 Setup Instructions (Local)
 
 ### 1. Clone the repository
+```
 git clone https://github.com/athrv3632-stack/raja_game_backend.git
 cd raja_game_backend
+```
 
 ### 2. Create and activate virtual environment
+```
 python3 -m venv venv
 source venv/bin/activate   # macOS/Linux
+```
 
 ### 3. Install dependencies
+```
 pip install -r requirements.txt
+```
 
 ### 4. Run the server
+```
 python app.py
+```
+
+
 
