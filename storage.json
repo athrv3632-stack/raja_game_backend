@@ -1,0 +1,64 @@
+{
+  "50e9e0bb": {
+    "id": "50e9e0bb",
+    "players": [
+      {
+        "id": "32e7032f",
+        "name": "Atharv",
+        "role": null,
+        "points": 0
+      }
+    ],
+    "assigned": false,
+    "rounds": [],
+    "default_points": {
+      "Raja": 1000,
+      "Mantri": 800,
+      "Sipahi": 500,
+      "Chor": 0
+    }
+  },
+  "6a1be8b9": {
+    "id": "6a1be8b9",
+    "players": [
+      {
+        "id": "7e568565",
+        "name": "Atharv",
+        "role": "Sipahi",
+        "points": 550
+      },
+      {
+        "id": "aa2f22a8",
+        "name": "divyansh",
+        "role": "Chor",
+        "points": -100
+      },
+      {
+        "id": "89d5f984",
+        "name": "abhishu",
+        "role": "Raja",
+        "points": 1000
+      },
+      {
+        "id": "f881176f",
+        "name": "parth",
+        "role": "Mantri",
+        "points": 850
+      }
+    ],
+    "assigned": true,
+    "rounds": [
+      {
+        "guesser": "f881176f",
+        "guessed": "aa2f22a8",
+        "correct": true
+      }
+    ],
+    "default_points": {
+      "Raja": 1000,
+      "Mantri": 800,
+      "Sipahi": 500,
+      "Chor": 0
+    }
+  }
+}
